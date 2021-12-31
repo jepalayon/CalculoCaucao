@@ -1,0 +1,10 @@
+C:\Users\gerencia\Documents\ProgramasVS\CaucaoCalculo\CaucaoCalculo\bin\Debug\CaucaoCalculo.exe.config
+C:\Users\gerencia\Documents\ProgramasVS\CaucaoCalculo\CaucaoCalculo\bin\Debug\CaucaoCalculo.exe
+C:\Users\gerencia\Documents\ProgramasVS\CaucaoCalculo\CaucaoCalculo\bin\Debug\CaucaoCalculo.pdb
+C:\Users\gerencia\Documents\ProgramasVS\CaucaoCalculo\CaucaoCalculo\obj\Debug\CaucaoCalculo.csprojAssemblyReference.cache
+C:\Users\gerencia\Documents\ProgramasVS\CaucaoCalculo\CaucaoCalculo\obj\Debug\CaucaoCalculo.Form1.resources
+C:\Users\gerencia\Documents\ProgramasVS\CaucaoCalculo\CaucaoCalculo\obj\Debug\CaucaoCalculo.Properties.Resources.resources
+C:\Users\gerencia\Documents\ProgramasVS\CaucaoCalculo\CaucaoCalculo\obj\Debug\CaucaoCalculo.csproj.GenerateResource.cache
+C:\Users\gerencia\Documents\ProgramasVS\CaucaoCalculo\CaucaoCalculo\obj\Debug\CaucaoCalculo.csproj.CoreCompileInputs.cache
+C:\Users\gerencia\Documents\ProgramasVS\CaucaoCalculo\CaucaoCalculo\obj\Debug\CaucaoCalculo.exe
+C:\Users\gerencia\Documents\ProgramasVS\CaucaoCalculo\CaucaoCalculo\obj\Debug\CaucaoCalculo.pdb
